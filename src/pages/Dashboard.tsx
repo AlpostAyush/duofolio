@@ -1,4 +1,3 @@
-
 import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { RootState } from '../store';
@@ -7,7 +6,7 @@ import TaskInput from '../components/Task/TaskInput';
 import TaskList from '../components/Task/TaskList';
 import ThemeToggle from '../components/UI/ThemeToggle';
 import WeatherWidget from '../components/UI/WeatherWidget';
-import { Button } from '@/components/UI/button';
+import { Button } from '../components/UI/Button';
 import { logout } from '../store/slices/authSlice';
 
 const Dashboard = () => {

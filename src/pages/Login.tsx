@@ -1,7 +1,6 @@
-
 import React from 'react';
-import LoginForm from '../components/Auth/LoginForm';
 import ThemeToggle from '../components/UI/ThemeToggle';
+import LoginForm from '../components/Auth/LoginForm';
 
 const Login = () => {
   return (

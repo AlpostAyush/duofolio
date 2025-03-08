@@ -1,11 +1,10 @@
-
 import React from 'react';
 import { useDispatch } from 'react-redux';
 import { removeTask, toggleTaskCompletion, updateTaskPriority, Task, TaskPriority } from '../../store/slices/taskSlice';
-import { Button } from '@/components/ui/button';
-import { Checkbox } from '@/components/ui/checkbox';
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
-import { Card, CardContent } from '@/components/ui/card';
+import { Button } from '@/components/UI/button';
+import { Checkbox } from '@/components/UI/checkbox';
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/UI/select';
+import { Card, CardContent } from '@/components/UI/card';
 import { Trash } from 'lucide-react';
 
 interface TaskItemProps {
