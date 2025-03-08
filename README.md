@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Duofolio project
 
 ## Project info
@@ -67,3 +68,6 @@ Simply open [Duofolio](https://duofolio.dev/projects/37d8d92c-c541-4958-899d-578
 ## I want to use a custom domain - is that possible?
 
 We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.duofolio.dev/tips-tricks/custom-domain/)
+=======
+# duofolio
+>>>>>>> 7ce8361a0dd92515a8dcf9c8b8fa184479969439
