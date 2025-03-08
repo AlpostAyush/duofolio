@@ -1,9 +1,8 @@
-
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { RootState } from '../../store';
 import { toggleTheme, setDarkMode } from '../../store/slices/themeSlice';
-import { Button } from '@/components/ui/button';
+import { Button } from '@/components/UI/button';
 import { Moon, Sun } from 'lucide-react';
 
 const ThemeToggle = () => {

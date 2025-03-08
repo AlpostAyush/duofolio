@@ -1,10 +1,9 @@
-
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { addTask } from '../../store/slices/taskSlice';
-import { Input } from '@/components/ui/input';
-import { Button } from '@/components/ui/button';
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
+import { Input } from '@/components/UI/input';
+import { Button } from '@/components/UI/button';
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/UI/select';
 import { TaskPriority } from '../../store/slices/taskSlice';
 
 const TaskInput = () => {
