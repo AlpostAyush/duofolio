@@ -1,22 +1,3 @@
-<<<<<<< HEAD
-# Welcome to your Duofolio project
-
-## Project info
-
-**URL**: https://duofolio.dev/projects/37d8d92c-c541-4958-899d-5788edf1d1b3
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Duofolio**
-
-Simply visit the [Duofolio Project](https://duofolio.dev/projects/37d8d92c-c541-4958-899d-5788edf1d1b3) and start prompting.
-
-Changes made via Duofolio will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Duofolio.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
@@ -60,14 +41,3 @@ This project is built with .
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Duofolio](https://duofolio.dev/projects/37d8d92c-c541-4958-899d-5788edf1d1b3) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.duofolio.dev/tips-tricks/custom-domain/)
-=======
-# duofolio
->>>>>>> 7ce8361a0dd92515a8dcf9c8b8fa184479969439
